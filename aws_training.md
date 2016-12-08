@@ -13,3 +13,9 @@
 2. Amazon Resource Name (ARN)
   - DynamoDB: region, resource 정보 필요함
   - S3: bucket id 가 고유하므로, region & resource 정보는 없어도 됨
+
+
+### 2-DAY
+1. Email send system
+   SQS, SES
+   
