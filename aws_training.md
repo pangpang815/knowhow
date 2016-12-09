@@ -2,7 +2,9 @@
 
 ### LAB 실습Solution
  - http://bit.ly/dev20-solutions
-   
+
+### Online Book
+ - http://online.vitalsource.com
    
 ### 1-DAY
 
@@ -18,3 +20,22 @@
 ### 2-DAY
 1. Email send system
    SQS, SES
+2. free teir로 활용할 수 있는 리소스를 확인하면 무료 운영 가능함
+3. Cognito를 활용하여 인증 가능함
+
+
+### 3-DAY
+1. AWS 관리콘솔에서 교차 계정 접근 (Cross-Account Access) 관리
+2. 접근 권한 설정 시, 명시적인 deny 권한이 우선시 됨
+
+3. ec2:RunInstances 
+   ec2를 생성할 수 있는 권한
+4. iam:PassRole
+  other user에게 role을 건네줄 수 있는 권한
+5. sts:AssumeRole
+  other user로부터 role을 건네받을 수 있는 권한
+
+#### Cognito
+
+
+#### Sticky Session 
