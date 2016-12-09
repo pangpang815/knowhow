@@ -2,6 +2,7 @@
 
 ### LAB 실습Solution
  - http://bit.ly/dev20-solutions
+ - Lab  Developing Caching Solutions with Amazon ElastiCache - Solution Reference (./cache_manager.py)
 
 ### Online Book
  - http://online.vitalsource.com
